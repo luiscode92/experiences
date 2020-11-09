@@ -1,0 +1,93 @@
+.media {
+	display: block;
+	background-color: #ffffff;
+	/*height: 100;*/
+}
+
+.profile {
+	margin: 10px;
+	display: flex;
+	/*font-size: 2vw;*/
+	position: relative;
+
+}
+
+.userholder h5 {
+	color: #0d2c3b;
+	font-size: 1.5vw;
+	height: 0px;
+	position: absolute;
+}
+
+/*.profile p {
+	display: flex;
+}*/
+
+.photo {
+	border-radius: 100%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #0d2c3b;
+	max-width: 100%;
+}
+
+.usertitle {
+	text-align: left;
+	float: left;
+	padding: 0px 0 0 10px;
+	margin-left: 3px;
+	top: 0px;
+	position: relative;
+}
+
+.stick:before {
+	background: #002333;
+	left: calc(100% - 3px);
+	top: 30px;
+	content: " ";
+	height: 7px;
+	width: 7px;
+	border-radius: 100%;
+	position: absolute;
+	pointer-events: none;
+}
+
+.stick:after {
+	background: #002333;
+	left: -3px;
+	top: 33px;
+	content: " ";
+	height: 1px;
+	width: 100%;
+	position: absolute;
+	pointer-events: none;
+}
+
+.userholder h6 {
+	/*margin-top: 37px;*/
+	/*display: block;*/
+	font-size: 1vw;
+	position: relative;
+	top: 30px;
+}
+
+.userholder {
+	/*margin-top: -4px;*/
+	position: relative;
+
+}
+
+.rating {
+	/*top: 20px;*/
+	display: flex;
+	/*margin-left: 35px;*/
+	/*margin-top: -10px;*/
+	text-align: center;
+	/*top: 5px;*/
+	position: relative;
+	left: 3%;
+	font-size: 1vw;
+	margin: 10px;
+	align-self: center;
+
+}

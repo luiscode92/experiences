@@ -1,0 +1,103 @@
+{
+    "Header": {
+
+        "title": "Skillshare Experiences",
+        "paragraph": "Reinventing live classes through real-time feedback."
+
+    },
+    "About": {
+        "paragraph": "Our team is conformed by four committed, disciplined, and proactive developers; we like to think outside the box, we are focused on continuous learning, and we have the motivation to make things happen. Together We have a background in marketing, administration, logistics, science, and entrepreneurship. We have been working and sharing every day since January. We like solving problems through coding and generating a positive impact in Colombia and the world through technology.",
+        "Why": [
+           
+        ],
+        "Why2": [
+           
+        ]
+    },
+    "Services": [{
+            "icon": "fa devicon-react-original",
+            "name": "Reactjs",
+            "text": "A JavaScript library for building user interfaces."
+        },
+        {
+            "icon": "fa fa-cloud",
+            "name": "AWS Amplify",
+            "text": "Is an end-to-end solution that enables mobile and front-end web developers to build and deploy secure, scalable full stack applications."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Material UI",
+            "text": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "GraphQL",
+            "text": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data."
+        },
+        {
+            "icon": "fa fa-database",
+            "name": "Amazon DynamoDB",
+            "text": "Fast and flexible NoSQL database service for any scale."
+        }
+
+
+    ],
+    
+    "Team": [{
+            "img": "img/team/1.jpg",
+            "name": "Felipe Serna",
+            "job": "Site Reliability Engineer"
+        },
+        {
+            "img": "img/team/2.jpg",
+            "name": "Santiago Martinez",
+            "job": "Backend Engineer"
+        }, {
+            "img": "img/team/3.jpg",
+            "name": "Maria Crespo",
+            "job": "Frontend Engineer"
+        },
+        {
+            "img": "img/team/4.jpg",
+            "name": "Luis Sanjuan",
+            "job": "Frontend Engineer"
+        },
+        {
+            "img": "img/team/5.jpg",
+            "name": "Andres Carreño",
+            "job": "Skillshare Mentor"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-star-half-o",
+            "title": "Real-time Feedback",
+            "text": "Track the students understanding of the class, without interruption and anonymously"
+        },
+        {
+            "icon": "fa fa-clock-o",
+            "title": "Timeline",
+            "text": "Allow students to know the schedule of the class so they can organize their time and have access to resources."
+        },
+        {
+            "icon": "fa fa-line-chart",
+            "title": "Metrics",
+            "text": "Allow teachers to track students progress in order to improve their classes"
+        }
+    ],
+    "BookClass": [{
+        "title": "Dive Into Beginner Watercolor: Easy Painting Basics",
+        "description": "Love the look of watercolor but not sure where to start? Beginning anything can feel daunting, and watercolor seems to have a reputation for being intimidating. But it doesn’t have to be! Join three painters for a workshop that’s all about those first steps into the colorful, quirky world of watercolor. Learn basic classic techniques, learn some more modern applications, and tackle your fear with abstract experiments. You’ll need a basic watercolor set, brushes, and paper. This is a judgment-free zone so you can feel safe and comfortable sharing your first watercolor paintings with the group!",
+        "category": "arts",
+        "participants": "15",
+        "img": "img/classes/watercolor.jpeg"
+
+    }]
+}

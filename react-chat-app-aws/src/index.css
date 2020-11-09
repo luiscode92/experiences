@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  font-family: 'Mulish', sans-serif;
+}
+
+:root {
+  --amplify-primary-color: #002333;
+  --amplify-primary-tint: #394649;
+  --amplify-primary-shade: #00ff84;
+  }
+
+amplify-authenticator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: 100vh;
+}
+
+#zmmtg-root { 
+  width: 75%;
+  left: 25%!important;
+  top: 100%!important;
+}
+
+div.meeting-client {
+  left: 25%!important;
+  width: 75%;
+}
+
+div.meeting-client-inner {
+  position:relative;
+} 
+
+div.join-dialog {
+  width: 100%!important;
+}
+div.sharee-container {
+  left: 12%;
+}
